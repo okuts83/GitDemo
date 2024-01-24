@@ -1,0 +1,16 @@
+2023-12-12 19:29:09,075 : INFO : test_editProfile1 : Name
+2023-12-12 19:29:09,075 : INFO : test_editProfile1 : rahulacademy@email.com
+2023-12-12 19:29:09,080 : INFO : pytestdemo.test_logging : Information statement
+2023-12-12 19:29:09,080 : WARNING : pytestdemo.test_logging : Something is in warning mode
+2023-12-12 19:29:09,080 : ERROR : pytestdemo.test_logging : A Major error has happend
+2023-12-12 19:29:09,080 : CRITICAL : pytestdemo.test_logging : Critical issue
+2023-12-13 11:38:18,718 : INFO : test_editProfile1 : Name
+2023-12-13 11:38:18,718 : INFO : test_editProfile1 : rahulacademy@email.com
+2024-01-16 18:14:48,592 : INFO : test_editProfile1 : Name
+2024-01-16 18:14:48,592 : INFO : test_editProfile1 : rahulacademy@email.com
+2024-01-16 18:15:55,203 : INFO : test_editProfile1 : Name
+2024-01-16 18:15:55,203 : INFO : test_editProfile1 : rahulacademy@email.com
+2024-01-16 18:16:11,113 : INFO : test_editProfile1 : Name
+2024-01-16 18:16:11,114 : INFO : test_editProfile1 : rahulacademy@email.com
+2024-01-16 18:17:24,686 : INFO : test_editProfile1 : Name
+2024-01-16 18:17:24,686 : INFO : test_editProfile1 : rahulacademy@email.com

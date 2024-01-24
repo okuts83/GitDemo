@@ -1,0 +1,31 @@
+Generating LOG file
+
+log levels:
+Debug
+info
+warning
+error
+critical
+
+
+Standart of creating logs:
+1) time stamp - when test ran
+2) Type of error - (error, warning, critical ....)
+3) Test case name
+4) error message
+
+# Format - how our logs will be displayed
+logging.Formatter("%(asctime)s : %(levelname)s : %(name)s : %(message)s")
+
+%(asctime)s - time formate
+%(levelname)s - error level name what we need
+%(name)s - test file name
+%(message)s - message from the error
+
+
+When we set level, will be displayed chosen level and next,
+fro example if we choose info will be displayed info > warning > error > critical
+
+We can add log to any file:
+1) create a class (BaseClass)
+2) connect to test case (sample: test_fixturesDataWithHTMLLogs.py)
