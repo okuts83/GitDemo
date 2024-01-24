@@ -12,4 +12,6 @@
 
 def test_FirstTest():
     print("hello")
+print("hello2")
+print("hello3")
 
