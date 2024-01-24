@@ -1,0 +1,17 @@
+Generating HTML reports
+
+1) we need to install HTML module, if we don't have
+
+C:\Users\okuts\AppData\Local\Programs\Python\Python312\Scripts >>> cmd >> pip install pytest-html
+
+2) After that we can run our tests with creating HTML reports:
+
+C:\Users\okuts\PycharmProjects\UdemyPython\pytestdemo >>> cmd >>>
+
+>>> pytest --html=report.html -s -v   (""-s" ""-v" -options)
+
+When HTML report created >>> copy path to this file and open report.html
+
+Logs can be implemented in HTML report too, just add logs to test cases
+- how to add >>> check logs.txt + BaseClass + test_fixturesDataWithHTMLLogs.py files
+
