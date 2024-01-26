@@ -18,16 +18,11 @@ print("hello2")
 print("hello3")
 
 print("hello2")
-print("hello3")
 
-print("hello2")
 print("hello3")
-
+print("hello111")
 print("hello2")
-print("hello3")
-
 print("hello2")
-print("hello3")
 
 
 

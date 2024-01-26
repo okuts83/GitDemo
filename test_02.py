@@ -18,6 +18,9 @@ import pytest  # to switch marks
 
 def test_FirsttTest():
     print("hello")
+print("hello")
+print("hello")
+print("hello")
 
 @pytest.mark.smoke
 def test_SecondTest():
