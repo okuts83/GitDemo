@@ -13,16 +13,8 @@
 def test_FirstTest():
     print("hello")
 print("hello2")
-print("hello3")
-print("hello2")
-print("hello3")
 
-print("hello2")
-
-print("hello3")
-print("hello111")
-print("hello2")
-print("hello2")
+print("hello21321321321")
 
 
 
