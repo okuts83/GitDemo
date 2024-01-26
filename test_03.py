@@ -18,6 +18,10 @@ import pytest # to switch marks
 
 def test_5Test():
     print("hello")
+print("hello")
+print("hello")
+print("hello")
+print("hello")
 
 @pytest.mark.smoke
 def test_6Test():
@@ -31,7 +35,10 @@ def test_7Test():
     msg = "hi"
     print(msg)
     assert msg == "Hello", "It is not match"
-
+   assert msg == "Hello", "It is not match"   
+assert msg == "Hello", "It is not match"   
+assert msg == "Hello", "It is not match"   
+assert msg == "Hello", "It is not match"
 @pytest.mark.smoke
 @pytest.mark.xfail # if we want to run case but do not display failed
 def test_8Test():
